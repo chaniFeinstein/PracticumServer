@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\API",
+    "\\API\\Controllers",
+    "\\DBContext",
+    "\\DBContext\\Migrations",
+    "\\Practikum",
+    "\\Practikum\\Entities",
+    "\\Repositories",
+    "\\Repositories\\Repositories"
+  ],
+  "SelectedNode": "\\Practikum.sln",
+  "PreviewInSolutionExplorer": false
+}

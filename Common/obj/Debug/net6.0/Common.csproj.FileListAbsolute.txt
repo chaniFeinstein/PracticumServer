@@ -1,0 +1,56 @@
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\bin\Debug\net6.0\Common.deps.json
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\obj\Debug\net6.0\Common.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\obj\Debug\net6.0\refint\Common.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\obj\Debug\net6.0\Common.pdb
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\Common\obj\Debug\net6.0\ref\Common.dll
+D:\Practikum\Common\bin\Debug\net6.0\Common.deps.json
+D:\Practikum\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+D:\Practikum\Common\bin\Debug\net6.0\Common.dll
+D:\Practikum\Common\bin\Debug\net6.0\Common.pdb
+D:\Practikum\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+D:\Practikum\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practikum\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+D:\Practikum\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+D:\Practikum\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+D:\Practikum\Common\obj\Debug\net6.0\Common.dll
+D:\Practikum\Common\obj\Debug\net6.0\refint\Common.dll
+D:\Practikum\Common\obj\Debug\net6.0\Common.pdb
+D:\Practikum\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+D:\Practikum\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\User\Documents\תכנות ו\Practikum\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\User\Documents\תכנות ו\Practikum\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\Practikum\Common\bin\Debug\net6.0\Common.dll
+C:\Users\User\Documents\תכנות ו\Practikum\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Documents\תכנות ו\Practikum\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\Practikum\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\Practikum\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\Practikum\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\Practikum\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\Practikum\Common\obj\Debug\net6.0\Common.dll
+C:\Users\User\Documents\תכנות ו\Practikum\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\User\Documents\תכנות ו\Practikum\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\User\Documents\תכנות ו\Practikum\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות ו\Practikum\Common\obj\Debug\net6.0\ref\Common.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\bin\Debug\net6.0\Common.deps.json
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\bin\Debug\net6.0\Common.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\bin\Debug\net6.0\Common.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\obj\Debug\net6.0\Common.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\obj\Debug\net6.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\obj\Debug\net6.0\Common.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\obj\Debug\net6.0\Common.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\obj\Debug\net6.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\obj\Debug\net6.0\Common.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\obj\Debug\net6.0\refint\Common.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\obj\Debug\net6.0\Common.pdb
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\obj\Debug\net6.0\Common.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Common\obj\Debug\net6.0\ref\Common.dll

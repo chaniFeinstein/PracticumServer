@@ -1,0 +1,368 @@
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\appsettings.Development.json
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\appsettings.json
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\API.exe
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\API.deps.json
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\API.runtimeconfig.json
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\API.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\API.pdb
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\AutoMapper.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Azure.Core.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Azure.Identity.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.Drawing.Common.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.Memory.Data.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.Security.Permissions.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Common.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\DBContext.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Repositories.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Services.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Services.pdb
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Common.pdb
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\DBContext.pdb
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\staticwebassets.build.json
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\staticwebassets.development.json
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.csproj.CopyComplete
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\refint\API.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.pdb
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\obj\Debug\net6.0\ref\API.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Humanizer.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.CodeDom.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\System.Text.Json.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Practikum\API\bin\Debug\net6.0\appsettings.Development.json
+D:\Practikum\API\bin\Debug\net6.0\appsettings.json
+D:\Practikum\API\bin\Debug\net6.0\API.exe
+D:\Practikum\API\bin\Debug\net6.0\API.deps.json
+D:\Practikum\API\bin\Debug\net6.0\API.runtimeconfig.json
+D:\Practikum\API\bin\Debug\net6.0\API.dll
+D:\Practikum\API\bin\Debug\net6.0\API.pdb
+D:\Practikum\API\bin\Debug\net6.0\AutoMapper.dll
+D:\Practikum\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Practikum\API\bin\Debug\net6.0\Azure.Core.dll
+D:\Practikum\API\bin\Debug\net6.0\Azure.Identity.dll
+D:\Practikum\API\bin\Debug\net6.0\Humanizer.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Practikum\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Practikum\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Practikum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Practikum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Practikum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Practikum\API\bin\Debug\net6.0\System.CodeDom.dll
+D:\Practikum\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Practikum\API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Practikum\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Practikum\API\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Practikum\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Practikum\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practikum\API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Practikum\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Practikum\API\bin\Debug\net6.0\System.Text.Json.dll
+D:\Practikum\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Practikum\API\bin\Debug\net6.0\Common.dll
+D:\Practikum\API\bin\Debug\net6.0\DBContext.dll
+D:\Practikum\API\bin\Debug\net6.0\Repositories.dll
+D:\Practikum\API\bin\Debug\net6.0\Services.dll
+D:\Practikum\API\bin\Debug\net6.0\DBContext.pdb
+D:\Practikum\API\bin\Debug\net6.0\Services.pdb
+D:\Practikum\API\bin\Debug\net6.0\Common.pdb
+D:\Practikum\API\bin\Debug\net6.0\Repositories.pdb
+D:\Practikum\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+D:\Practikum\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practikum\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+D:\Practikum\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+D:\Practikum\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+D:\Practikum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+D:\Practikum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+D:\Practikum\API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Practikum\API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Practikum\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+D:\Practikum\API\obj\Debug\net6.0\API.csproj.CopyComplete
+D:\Practikum\API\obj\Debug\net6.0\API.dll
+D:\Practikum\API\obj\Debug\net6.0\refint\API.dll
+D:\Practikum\API\obj\Debug\net6.0\API.pdb
+D:\Practikum\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+D:\Practikum\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\API.exe
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\API.deps.json
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\API.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\API.pdb
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Common.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\DBContext.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Repositories.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Services.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\DBContext.pdb
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Services.pdb
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Documents\תכנות ו\Practikum\API\bin\Debug\net6.0\Repositories.pdb
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.pdb
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות ו\Practikum\API\obj\Debug\net6.0\ref\API.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\appsettings.json
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\API.exe
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\API.deps.json
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\API.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\API.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\API.pdb
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Humanizer.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Common.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\DBContext.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Repositories.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Services.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\DBContext.pdb
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Services.pdb
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Common.pdb
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\bin\Debug\net6.0\Repositories.pdb
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\scopedcss\bundle\API.styles.css
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.csproj.CopyComplete
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\refint\API.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.pdb
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\API.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\API\obj\Debug\net6.0\ref\API.dll

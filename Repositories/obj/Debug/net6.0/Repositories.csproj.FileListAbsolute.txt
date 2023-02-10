@@ -1,0 +1,56 @@
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\bin\Debug\net6.0\Repositories.deps.json
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\bin\Debug\net6.0\Repositories.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\bin\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\obj\Debug\net6.0\Repositories.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\obj\Debug\net6.0\Repositories.pdb
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+Y:\Groups\2\פיינשטיין חנה\Practikum\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+D:\Practikum\Repositories\bin\Debug\net6.0\Repositories.deps.json
+D:\Practikum\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+D:\Practikum\Repositories\bin\Debug\net6.0\Repositories.dll
+D:\Practikum\Repositories\bin\Debug\net6.0\Repositories.pdb
+D:\Practikum\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+D:\Practikum\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practikum\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+D:\Practikum\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+D:\Practikum\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+D:\Practikum\Repositories\obj\Debug\net6.0\Repositories.dll
+D:\Practikum\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+D:\Practikum\Repositories\obj\Debug\net6.0\Repositories.pdb
+D:\Practikum\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+D:\Practikum\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות ו\Practikum\Repositories\obj\Debug\net6.0\ref\Repositories.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\bin\Debug\net6.0\Repositories.deps.json
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\bin\Debug\net6.0\Repositories.runtimeconfig.json
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\bin\Debug\net6.0\Repositories.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\bin\Debug\net6.0\Repositories.pdb
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\obj\Debug\net6.0\Repositories.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\obj\Debug\net6.0\Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\obj\Debug\net6.0\Repositories.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\obj\Debug\net6.0\Repositories.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\obj\Debug\net6.0\Repositories.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\obj\Debug\net6.0\refint\Repositories.dll
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\obj\Debug\net6.0\Repositories.pdb
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\obj\Debug\net6.0\Repositories.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות ו\חני פינשטיין פרקטיקום\.net\Repositories\obj\Debug\net6.0\ref\Repositories.dll
