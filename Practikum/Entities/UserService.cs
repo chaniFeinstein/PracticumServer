@@ -26,7 +26,9 @@ namespace Services.Entities
         public async Task<UserDTO> Add(UserDTO entity)
         {
             var users =await GetAll();
-            //var isExist=users.FirstOrDefault(x => x.TZ == entity.TZ);
+            var isExist = users.FirstOrDefault(x => x.TZ == entity.TZ);
+            if (isExist != null)
+                return null;
             var res = users.FirstOrDefault(x => x.GetTz == entity.GetTz);
             if (res == null)
                 entity.FamilyId = FamilyCode++;
