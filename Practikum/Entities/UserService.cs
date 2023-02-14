@@ -10,10 +10,12 @@ using System.Threading.Tasks;
 
 namespace Services.Entities
 {
+     
     public class UserService : IService<UserDTO>
     {
         private readonly IMapper _mapper;
         private readonly IUser<User> _userRepository;
+        private static int FamilyCode = 1;
 
         public UserService(IMapper mapper, IUser<User> userRepository)
         {
@@ -23,7 +25,14 @@ namespace Services.Entities
 
         public async Task<UserDTO> Add(UserDTO entity)
         {
-            return _mapper.Map<UserDTO>(await _userRepository.AddAsync(_mapper.Map<Repositories.Entities.User>(entity)));
+            var users =await GetAll();
+            //var isExist=users.FirstOrDefault(x => x.TZ == entity.TZ);
+            var res = users.FirstOrDefault(x => x.GetTz == entity.GetTz);
+            if (res == null)
+                entity.FamilyId = FamilyCode++;
+            else
+                entity.FamilyId = res.FamilyId;
+            return _mapper.Map<UserDTO>(await _userRepository.AddAsync(_mapper.Map<User>(entity)));
 
         }
 

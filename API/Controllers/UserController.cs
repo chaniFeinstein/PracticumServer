@@ -44,6 +44,7 @@ namespace API.Controllers
             newOne.FamilyId = postModel.FamilyId;
             newOne.Status = postModel.Status;
             newOne.HMO=postModel.HMO;
+            newOne.GetTz = postModel.GetTz;
             return await _user.Add(newOne);
         }
 

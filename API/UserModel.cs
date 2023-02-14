@@ -11,5 +11,6 @@
         public string HMO { get; set; }
         public int FamilyId { get; set; }
         public string Status { get; set; }
+        public string GetTz { get; set; }
     }
 }
